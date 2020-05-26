@@ -1,0 +1,14 @@
+These are the steps for the myHttpd project:
+    - CORE FEATURES:
+        - Server configuration      [DONE]
+            - Catch good errors     [DONE]
+        - ThreadPool                [DONE]
+        - Server Connection         [DONE]
+        - GET method                [DONE]
+        - Test GET                  [DONE]
+        - Print Log                 [DONE]
+        - Autotools                 [DONE]
+        - Final main                [DONE]
+        - CGI                       [STARTED]
+            - environment script    [STARTED]
+            - user script           [STARTED]
